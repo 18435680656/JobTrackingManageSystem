@@ -51,7 +51,7 @@
     },
     {
           "title": "学生管理",
-          "icon": "fa fa-students",
+          "icon": "fa fa-user",
           "href": "",
           "target": "_self",
           "child": [
